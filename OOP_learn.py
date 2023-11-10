@@ -1,4 +1,3 @@
 import time
 
-print(1)
-print(4)
+print(123)
