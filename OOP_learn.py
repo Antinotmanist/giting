@@ -1,3 +1,4 @@
 import time
 
-print(12356656)
+print(1)
+print(4)
